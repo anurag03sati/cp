@@ -4,6 +4,7 @@ int main(){
     int l,b;
     cin>>l>>b;
     int cnt=0;
+    //mmm
     while(l<=b){
         l=3*l;
         b=2*b;
